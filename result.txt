@@ -1,0 +1,13 @@
+------------------------------
+lyricsSearch.py
+1hour 04min : 2018년 문제에서 배운지식으로 응용하여 풀수 있었다.
+TRIE로 구현
+     printNode(root1,'parent')
+     print('==================')
+     printNode(root2,'parent')
+            print('ch : {} , value : {}'.format(ch,cur.value))
+------------------------------------------------------------
+AmusingJoke.py
+20min
+dictionary로 hash를 만들때 초기화 값에 유의하자
+------------------------------
