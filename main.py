@@ -4,8 +4,11 @@ import datetime
 metaFiles = ['main.py']
 fExtensions = ['.py','.cpp']
 seperator = ''.join(['-']*30)
+noOfSolved = 0
 
 def write(f_name,f_write):
+    global noOfSolved
+    noOfSolved += 1
     f_read = open(f_name,"r")
     comments = []
     lines = f_read.read().split('\n')
@@ -41,6 +44,7 @@ def main():
     f_write = open("result.txt","w")
     basePath = './'
     writeFilesRecursively(basePath,f_write)
+    f_write.write('푼문제수 : {}'.format(noOfSolved))
     f_write.close()
 
 main()
