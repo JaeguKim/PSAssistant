@@ -1,138 +1,130 @@
 ------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/cookies.py
 8min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/Dragons.py
 16min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/chips.py
 18min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/cupboards.py
 7m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
-./test/Codeforces/Educational Rnd 87/a.cpp
-include <bits/stdc++.h>
-------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/Educational Rnd 87/a.py
 테스트 케이스중간에 런타임에러가 난경우 - 분모가 영인경우
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/Drinks.py
 4min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/div2_645/a.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/div2_645/c.py
  ---- Input Functions ---- 
 TLE
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/div2_645/b.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/BeautifulMatrix.py
 10min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/QueueAtSchool.py
 21m 42s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/cakeminator.py
 19min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/lightsOut.py
 27min 03s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/perfactPerm.py
 15m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/HQ+.py
 4min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/WayTooLongWords.py
 14min
 more than = greater than
     print(len(line))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/InsomniaCure.py
 10min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/wordCapitalization.py
 3m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/XeniaAndRingroad.py
 1h 04, 완전히 잘못된 접근으로 시간지체
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/routineProblem.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
-./test/Codeforces/A2OJ Ladder 13/HungrySequence.cpp
-include <bits/stdc++.h>
-include <iostream>
-define SIZE 10000001
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/GeorgeAndJob.cpp
+뭔가 손에 잡힐듯 안잡힐듯 하는 풀이다. 결국 이해는 어느정도 했으나 완전히 손에 잡히지는 않는것같다.
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/luckyDivision.py
 15min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/littlePonyAndExpectedMaximum.py
 확률공부가 어느정도 되어있으면 간단한 풀이가 가능
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/MashmokhAndACM.cpp
-//include <bits/stdc++.h>
-include <iostream>
-include <math.h>
+#include <bits/stdc++.h>
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/llyaAndBankAccount.py
 25min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/puzzles.py
 30min
 자신의 생각을 고집하지 말고 모든지점에서 실수할수 있다는 가능성을 열어두자
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/ping-pong.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/chatRoom.py
 15min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/VanyaAndExams.py
  ---- Input Functions ---- 
 27min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/ChossingTeams.py
 9min 57sec
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/t-primes.py
  ---- Input Functions ---- 
      Create a boolean array "prime[0..n]" and initialize 
@@ -142,27 +134,36 @@ include <math.h>
              Update all multiples of p 
      Print all prime numbers 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Presents.py
 22min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/ValeraAndTubes.cpp
+항상 내 코드가 틀릴수 있다는 사실을 염두해 두자.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/PlayingCubes.py
 못품 - A번문제에서 풀이가 잘 생각안나는 경우, 변하지 않는 경우를 발견 하는것이 중요하다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/StringTask.py
 15min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Twins.py
 12min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/XeniaAndWeights.cpp
+문제는 잘 이해했으나, 풀이를 심사숙고하지 못했다.
+완전탐색으로 풀면되는 생각보다 쉬운문제였다.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Fence.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/XeniaandBitOperations.py
  ---- Input Functions ---- 
 size = 2 * 2**n  8
@@ -172,78 +173,95 @@ build segment tree
 for i in range(2**n-1,0,-1):  3,2,1
 update segment tree
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/cinemaLine.py
 37min - 구현력을 테스트 하는 문제
 경우를 신중하게 나눠야한다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Dubstep.py
 5min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/bigSegment.py
 23min 
 생각보다 간단한문제
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Football.py
 11min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/maze.cpp
+재귀를 오르내리면서 시간이 많이 걸리므로, BFS를 사용하기로한다.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/funckyNumbers.cpp
+완전제곱식에 대한 지삭으로 쉽게 풀이가능
+정수 범위 long long 으로 증가
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/cutRibbon.py
 33min
  ---- Input Functions ---- 
 aLoop = int(n/a); bLoop = int(n/b)   [1] [1]
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/cosmicTables.py
 codeforce에서 pypy 2.7이 가장 빠르므로 사용하도록 한다.
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/MashmokhAndACM.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/magicNumbers.py
 15min
 현재 알고리즘으로 처리할수 없는 경우가 있는지를 문제를 유심히 보면서 찾을수 있다.
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/factory.py
 17min
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Team.py
 2min 47sec
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/HeadsOrTails.py
 11min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/parallelePiped.py
 21min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/buildingPermutation.py
 문제를 정확히 이해하면 풀이가 간단해지는 경우
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/default.py
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Marks.py
 26min - 중구남방으로 생각하지말고 차근차근 확실히 머리속에 그려질때 코딩하자
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/k-string.py
 18min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/softDrinking.py
 9m52s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/Boredom.cpp
+자료형 범위 overflow에 유의한다.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/maze.py
  ---- Input Functions ---- 
         print('{} {}'.format(r,c))
@@ -257,229 +275,267 @@ grid.append(['']*(m+2))
     row.append('')
 grid.append(['']*(m+2))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/palandromeTransformation.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/littlePonyAndSortByShift.cpp
+시간복잡도를 충분히 고민해보고 풀이를 시작하는것이 시간절약에 좋다.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/fixingTypos.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Domino.py
 관찰로 충분히 풀수 있지 않았을까 하는 아쉬움이남는다,여러가지 경우를 나눠가면서 생각해보기
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Permutation.py
 11min 55s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/median.py
 15min
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/tempCodeRunnerFile.cpp
+  #ifndef ONLINE_JUDGE
+     freopen("input.txt", "r", stdin) ;
+     freopen("output.txt", "w", stdout) ;
+     #endif
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/rankList.py
 20min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/luckySumOfDigits.py
 알고리즘은 거의 맞았으나, 사소한 함수들을 최적화해야 accept되는 문제
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/boyOrGirl.py
 6min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/LCMChallenge.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/SerejaAndSuffixes.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/littleGirlAndMaximumSum.py
 idea 필요한 문제
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/llyaAndQueries.py
  ---- Input Functions ---- 
 print(dp)
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/CielAndFlowers.py
 관찰력이 필요한 문제
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/dividingOrange.py
 31m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/FreeCash.py
 11min
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/Array.py
 idea는 찾았지만 구현이 생각보다 까다로웠다.
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/CaesarsLegion.py
  ---- Input Functions ---- 
     insert f
     insert h
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/littleGirlAndGame.py
 13min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/Codeforces/A2OJ Ladder 13/PhysicsPractical.cpp
+생각보다 간단한 문제였고, 문제를 너무 복잡학게 해석했던것같다.
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/PashmakAndFlowers.py
 diff가 0이되는 케이스를 미처 생각하지 못하여 못한 문제
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/touristProb.py
+python operator // : Divides and returns the integer value of the quotient. It dumps the digits after the decimal.
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/BoysAndGirls.py
 20min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/TwoBagsOfPotatoes.py
 13min 
 시간복잡도에 대해서 신경쓰지못해서 한번 fail
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/LittleElephantAndChess.py
 10min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/IceSkating.py
 dfs를 이용하여 쉽게 풀수있는문제, 구현이 문제가 아니라 아이디어를 연계하는것이 잘 안떠올랐다.
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/countingKangaroosIsFun.py
 1h
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/AmusingJoke.py
 20min
 dictionary로 hash를 만들때 초기화 값에 유의하자
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/colorStripe.py
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/VanyaAndCards.py
 26min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/A2OJ Ladder 13/flippingGame.py
 21min
 신중하게 생각하고 정확도에 더 신경을 쓰자
  ---- Input Functions ---- 
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/NearlyLuckyNumber.py
 6m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/VasilyTheBearAndTriangle.py
 25m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/translation.py
 5min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/blackjack.py
 24min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/UltraFastMathematician.py
 5min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/PetyaAndStrings.py
 7min 26s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/I_love_username.py
 10m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/theNumberOfPositions.py
 9m 44sec
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/Borze.py
 8m 52s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/div2_638/b.py
 생각하는 과정자체가 수열에 대한 감이 좀 필요하다는 생각이든다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/WizardsAndDemonstration.py
 9min 35s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/BeautifulYear.py
 6m 52s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/bit++.py
 5min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/SlightlyDecresingPerm.py
 26min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/PresentFromLena.py
 44min -> 아이디어 생각하는데 생각보다 많이걸림
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/LunchRush.py
 9min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/FancyFence.py
 38m 
 생각하는 속도보다 타이핑하려는 속도가 빠르다는 것은 조급하다는 것
 좀더 생각을 신속하되 정확하게 하려고 개선하자
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/Word.py
 6m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/ArrivalOfGeneral.py
 30m
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/Codeforces/CandyBags.py
 42min -> 문제해석을 제대로 하자
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:11
 ./test/Codeforces/Sale.py
 11min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/LeetCode/June Challenge/Week1/InvertBinaryTree.py
+ Definition for a binary tree node.
+ class TreeNode:
+     def __init__(self, val=0, left=None, right=None):
+         self.val = val
+         self.left = left
+         self.right = right
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/LeetCode/June Challenge/Week1/TwoCityScheduling.py
+TIME : 20min
+    def twoCitySchedCost(self, costs: List[List[int]]) -> int:
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/LeetCode/June Challenge/Week1/DeleteNodeInALinkedList.py
+ Definition for singly-linked list.
+ class ListNode:
+     def __init__(self, x):
+         self.val = x
+         self.next = None
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/LeetCode/Weekly 186th/1424.py
 print(findDiagonalOrder([[1,2,3,4,5],[6,7],[8],[9,10,11],[12,13,14,15,16]]))
 print(findDiagonalOrder([[1,2,3],[4],[5,6,7],[8],[9,10,11]]))
 print(findDiagonalOrder([[3,3,18],[4,15,11],[19,11,14,14,3]]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/LeetCode/Weekly 186th/AddTwoNumber.py
 1hour 
 leetcode 테스트 케이스를 만드는과정이 번거로워 시간이 많이 걸렸다.
@@ -495,7 +551,11 @@ leetcode 테스트 케이스를 만드는과정이 번거로워 시간이 많이
  l2.next.next = ListNode(4)
  l2.next.next.next = ListNode(1)
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/LeetCode/FirstBadVersion.py
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/LeetCode/Biweekly 26th/c.py
  Definition for a binary tree node.
  class TreeNode:
@@ -504,68 +564,78 @@ leetcode 테스트 케이스를 만드는과정이 번거로워 시간이 많이
          self.left = left
          self.right = right
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/LeetCode/1442.py
 xor연산을 최적화하는 지식이 필요한 문제였다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/AtCoder/ABC165/c.py
 48min 41sec
 완전탐색으로 통과가 안될거라고 생각하고 넘어간문제, 사실은 완탐으로 가능
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
+./test/AtCoder/ABC169/a.py
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/AtCoder/ABC169/d.py
+문제를 풀때 너무 조급하기도 해서 행간을 읽지 못했다.
+생각해보면 그렇게 어려운 문제는 아닌데 여러 예외상황을 생각하기가 쉽지 않은거같다.
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/AtCoder/ABC169/default.py
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/AtCoder/ABC169/c.py
+TIME : 
+when calculating decimal numbers in python, we should use Decimal library. float has precision error becasue it represents with binary format.
+Use __truncate__ when getting integer part of Decimal object. Don't use int().
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
+./test/AtCoder/ABC169/b.py
+TIME : 
+------------------------------------------------------------
+2020-06-04 Thu 00:00:10
 ./test/AtCoder/ABC166/e.py
 문제의 요구조건을 수식으로 표현했을때 풀리는 문제 : j-i = Ai + Aj => i+Ai = j-Aj
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/AtCoder/ABC166/d.py
 수에 대한 감각이 필요한 문제같다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/AtCoder/ABC166/b.py
 문제를 침착하게 해석하지 못해 시간이 오래걸렸던 문제
 ------------------------------------------------------------
-2020-05-28 Thu 23:08:02
-./test/lyricsSearch.py
-1hour 04min : 2018년 문제에서 배운지식으로 응용하여 풀수 있었다.
-TRIE로 구현
-     printNode(root1,'parent')
-     print('==================')
-     printNode(root2,'parent')
-            print('ch : {} , value : {}'.format(ch,cur.value))
-------------------------------------------------------------
-2020-05-28 Thu 23:08:02
-./test/AmusingJoke.py
-20min
-dictionary로 hash를 만들때 초기화 값에 유의하자
-------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_INTERN/tuple.py
 understanding : 2m34s
 coding : 51m 30s
 total : 53m 30s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_INTERN/crossingBridge.py
 2hour
 python에서 int는 immutable타입이므로 함수 parameter로 전달하고 리턴되면 함수안에서 했던 작업들이 반영되지 않음
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_INTERN/badUser.py
 1hour 03min
 list는 object 타입임을 유의하자
 print(solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["fr*d*", "abc1**"]))
 print(solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["*rodo", "*rodo", "******"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2020KAKAO_REQRUIT/movingBlock.py
 2h 04min
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2020KAKAO_REQRUIT/columnAndRow.py
 print(solution(5,[[1,0,0,1],[1,1,1,1],[2,1,0,1],[2,2,1,1],[5,0,0,1],[5,1,0,1],[4,2,1,1],[3,2,1,1]]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2020KAKAO_REQRUIT/wallCheck.py
 res에 index를 대상으로 중복검사를 해야하는데, dist[idx] 값을 대상으로 검사해서 해맸다
 print(solution(12,[1, 5, 6, 10],[1, 2, 3, 4]))
@@ -573,13 +643,13 @@ print(solution(12,[1, 3, 4, 9, 10],[3, 5, 7]))
 print(solution(50, [1, 5, 10, 12, 22, 25], [3,4,6]))
 print(solution(50,[1],[6]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2020KAKAO_REQRUIT/lock.py
 2hour 15m
 print(getLockWithPadding([[1, 1, 1], [1, 1, 0], [1, 0, 1]],3,3))
 print(getKeyWithPadding([[0, 0, 0], [1, 0, 0], [0, 1, 1]],3,3,1,0))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2020KAKAO_REQRUIT/lyricsSearch.py
 1hour 04min : 2018년 문제에서 배운지식으로 응용하여 풀수 있었다.
 TRIE로 구현
@@ -588,18 +658,18 @@ TRIE로 구현
      printNode(root2,'parent')
             print('ch : {} , value : {}'.format(ch,cur.value))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/chuseok.py
 print(solution(["2016-09-15 01:00:04.001 2.0s","2016-09-15 01:00:07.000 2s"
 ]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/njinsu.py
 planning : 15m 50s
 coding : 45m
 total : 1h
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/sortFile.py
 planning : 7m 44
 coding : 
@@ -608,19 +678,19 @@ total : 20min+
     head, number, 원본으로 저장
     정렬한 후 list 출력
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/compression.py
 plan : 8m 52s
 coding : 52m
 total : 1h
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/cache.py
 understanding & plan : 10min 50s
 coding : 18m 41
 total : 29m 31s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/dart.py
 understanding : 11min
 coding : 33min
@@ -630,12 +700,12 @@ total : 45min
         elif dartResult[i] == '':
 dartResult = '1D2S10S'
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/shuttle.py
 print(solution(1, 1, 5, ["08:00", "08:01", "08:02", "08:03"]))
 print(solution(	2, 10, 2, ["09:10", "09:09", "08:00"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/music.py
     musicStr = musicStr.replace('C','c')
     musicStr = musicStr.replace('D','d')
@@ -646,7 +716,7 @@ print(solution("ABCDEFG",["12:00,12:14,HELLO,CDEFGAB", "13:00,13:05,WORLD,ABCDEF
 print(solution("CCBCCBCCBCCB", ["03:00,03:30,FOO,CCB", "04:00,04:08,BAR,CCBCCBCCB"]))
 print(solution("ABC", ["12:00,12:14,HELLO,CDEFGAB", "13:00,13:05,WORLD,ABCDEF"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/map.py
 understanding : 3min
 coding : 27min 
@@ -654,7 +724,7 @@ total : 30min
                 str+=''
         a12=a12.replace('1','')
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/autoCompletion.py
 TRIE로 구현
                 print('ch : {} , else block : {}'.format(ch,temp.value))
@@ -663,48 +733,48 @@ TRIE로 구현
 print(solution(["abc", "def", "ghi", "jklm"]))
 print(solution(["word", "war", "warrior", "world"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/block.py
 understanding : 2min
 coding : 
 total : 
 print(solution(8,2, ["AA", "AA", "CC", "AA", "AA", "DD"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2018KAKAO_REQRUIT/news.py
 understanding : 3m 51s
 coding : 52m
 total : 55m 19s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/matchingScore.py
         url = head.split('og:url')[1].split('content=\"')[1].split("\"")[0]
 print(solution("blind",["<html lang=\"ko\" xml:lang=\"ko\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta property=\"og:url\" content=\"https://a.com\"/>\n</head>  \n<body>\nBlind Lorem Blind ipsum dolor Blind test sit amet, consectetur adipiscing elit. \n<a href=\"https://b.com\"> Link to b </a>\n</body>\n</html>", "<html lang=\"ko\" xml:lang=\"ko\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta property=\"og:url\" content=\"https://b.com\"/>\n</head>  \n<body>\nSuspendisse potenti. Vivamus venenatis tellus non turpis bibendum, \n<a href=\"https://a.com\"> Link to a </a>\nblind sed congue urna varius. Suspendisse feugiat nisl ligula, quis malesuada felis hendrerit ut.\n<a href=\"https://c.com\"> Link to c </a>\n</body>\n</html>", "<html lang=\"ko\" xml:lang=\"ko\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta property=\"og:url\" content=\"https://c.com\"/>\n</head>  \n<body>\nUt condimentum urna at felis sodales rutrum. Sed dapibus cursus diam, non interdum nulla tempor nec. Phasellus rutrum enim at orci consectetu blind\n<a href=\"https://a.com\"> Link to a </a>\n</body>\n</html>"]))
 print(solution("Muzi",["<html lang=\"ko\" xml:lang=\"ko\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta property=\"og:url\" content=\"https://careers.kakao.com/interview/list\"/>\n</head>  \n<body>\n<a href=\"https://programmers.co.kr/learn/courses/4673\"></a>!MuziMuzi!)jayg07con&&\n\n</body>\n</html>", "<html lang=\"ko\" xml:lang=\"ko\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta property=\"og:url\" content=\"https://www.kakaocorp.com\"/>\n</head>  \n<body>\ncon%\tmuzI92apeach&2<a href=\"https://hashcode.co.kr/tos\"></a>\n\n\t^\n</body>\n</html>"]))
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/blockGame.py
 1h 30m
 잘못된 가정을 찾는것이 런타임에러 해결의 핵심이다. 이 문제의 경우에 블럭의 번호가 1부터 순차적으로 부여된다고 내가 가정을 해서 50분만에 풀수있는 문제를 1시간 반동안 붙잡고 있었다.
 문제를 다시 정확히 읽는것이 중요하다
 dictionary는 루프도중 값을 제거하는것이 불가능하다
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/openChat.py
 planning : 10m 52s
 coding : 36m
 total : 46m 30s
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/live.py
 최적화 아이디어가 잘 생각이 안나던 문제
 거의 같으나 좀더 직관적인 풀이
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/candidate.py
 planning : 13m 52
 ------------------------------------------------------------
-2020-05-28 Thu 20:19:17
+2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/pathFinding.py
 sys.setrecursionlimit(10**6)  increase recursion stack level
-------------------------------푼문제수 : 177
+------------------------------푼문제수 : 197

@@ -1,3 +1,4 @@
+#python operator // : Divides and returns the integer value of the quotient. It dumps the digits after the decimal.
 import sys
 from math import sqrt
 import math

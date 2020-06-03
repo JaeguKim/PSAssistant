@@ -1,3 +1,4 @@
+#TIME : 
 import sys
 from math import sqrt
 input = sys.stdin.readline

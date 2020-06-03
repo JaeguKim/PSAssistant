@@ -3,20 +3,21 @@ import datetime
 
 metaFiles = ['main.py']
 fExtensions = ['.py','.cpp']
+commentType = {'.py':'#','.cpp':'//'}
 seperator = ''.join(['-']*30)
 noOfSolved = 0
 
-def write(f_name,f_write):
+def write(f_name,f_write,f_extension):
     global noOfSolved
     noOfSolved += 1
     f_read = open(f_name,"r")
     comments = []
     lines = f_read.read().split('\n')
     modifiedTime = os.path.getmtime(f_name) 
-    
+    commentSymbol = commentType[f_extension]
     for line in lines:
-        if '#' in line:
-            comment = line.replace('#','')+'\n'
+        if commentSymbol in line:
+            comment = line.replace(commentSymbol,'')+'\n'
             comments.append(comment)
     
     if len(comments) > 0:
@@ -36,9 +37,10 @@ def writeFilesRecursively(basePath,f_write):
         if os.path.isdir(path):
             writeFilesRecursively(path,f_write)
         elif os.path.isfile(path):
-            if os.path.splitext(entry)[-1] not in fExtensions or entry in metaFiles:
+            f_Extension = os.path.splitext(entry)[-1]
+            if f_Extension not in fExtensions or entry in metaFiles:
                 continue
-            write(path,f_write)
+            write(path,f_write,f_Extension)
             
 def main():
     f_write = open("result.txt","w")
