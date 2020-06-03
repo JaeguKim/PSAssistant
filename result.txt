@@ -777,4 +777,7 @@ planning : 13m 52
 2020-06-04 Thu 00:00:10
 ./test/KAKAO/2019KAKAO_RECRUIT/pathFinding.py
 sys.setrecursionlimit(10**6)  increase recursion stack level
-------------------------------푼문제수 : 197
+------------------------------
+총 푼문제수 : 197
+C++로 푼 문제수 : 16
+Python으로 푼문제수 : 181
